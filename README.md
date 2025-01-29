@@ -14,7 +14,7 @@ This project uses machine learning to analyze and predict student academic perfo
 
 # Results
 Achieved:
-- Accuracy up to 98% with Random Forest and Gradient Boosting.
+- Accuracy up to 92% with Random Forest and Gradient Boosting.
 - Insights into key variables impacting academic performance.
 
 # Dataset
